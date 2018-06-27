@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleChat</string>
+    <string name="authentication_label">Login</string>
+    <string name="hint_typing">Message</string>
+    <string name="send_text">Send</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+</resources>
